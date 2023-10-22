@@ -1,0 +1,152 @@
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\Final Project NIBM.exe.config
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\Final Project NIBM.exe
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\Final Project NIBM.pdb
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.Properties.Resources.resources
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.exe
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.pdb
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.LoadingScreen.resources
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.Login.resources
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.Home.resources
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.Student.resources
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.Lecturers.resources
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.dashboard.resources
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.payments.resources
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.Department.resources
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\EnvDTE.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\stdole.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.StudentReport.resources
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.csproj.CopyComplete
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\Final Project NIBM.exe.manifest
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\bin\Debug\Final Project NIBM.application
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.exe.manifest
+C:\Users\User\source\repos\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.application
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\Final Project NIBM.exe.config
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\Final Project NIBM.exe.manifest
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\Final Project NIBM.application
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\Final Project NIBM.exe
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\Final Project NIBM.pdb
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\EnvDTE.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\stdole.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.csproj.AssemblyReference.cache
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.csproj.SuggestedBindingRedirects.cache
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.Dashboard.resources
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.Department.resources
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.payments.resources
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.Home.resources
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.Lecturers.resources
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.LoadingScreen.resources
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.Login.resources
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.Properties.Resources.resources
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.Student.resources
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final_Project_NIBM.StudentReport.resources
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.csproj.GenerateResource.cache
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.csproj.CoreCompileInputs.cache
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.exe.manifest
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.application
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.csproj.CopyComplete
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.exe
+D:\Courses\Final Project NIBM\Final Project NIBM\obj\Debug\Final Project NIBM.pdb
